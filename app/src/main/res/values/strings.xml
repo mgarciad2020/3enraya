@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">3enraya</string>
+    <string name="nombrejuego">Tres en raya</string>
+    <string name="dificil">Dificil</string>
 </resources>
